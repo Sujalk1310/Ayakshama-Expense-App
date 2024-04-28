@@ -1,0 +1,9 @@
+{
+    "model": "models/text-bison-001",
+    "temperature": 0.1,
+    "top_p": null,
+    "top_k": null,
+    "max_output_tokens": null,
+    "candidate_count": 1,
+    "_type": "google_palm"
+}
